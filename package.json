@@ -4,7 +4,7 @@
   "description": "Concatinate a few files by command line",
   "main": "index.js",
   "bin": {
-    "concatinator": "./bin/concatinator"
+    "concatinator": "./index.js"
   },
   "bugs": {
     "url": "https://github.com/xdan/concatinator/issues"
