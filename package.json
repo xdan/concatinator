@@ -1,6 +1,6 @@
 {
   "name": "concatinator",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Concatinate a few files by command line",
   "main": "index.js",
   "bin": {
@@ -11,7 +11,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "github": "git add --all  && git commit -m \"New version %npm_package_version%.\" && git tag %npm_package_version% && git push --tags origin HEAD:master && npm publish"
+    "github": "npm version patch --no-git-tag-version  && git add --all  && git commit -m \"New version %npm_package_version%.\" && git tag %npm_package_version% && git push --tags origin HEAD:master && npm publish"
   },
   "keywords": [
     "concatenate",
