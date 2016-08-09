@@ -1,6 +1,6 @@
 {
   "name": "concatinator",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "Concatinate a few files by command line",
   "main": "index.js",
   "repository": {
@@ -25,6 +25,8 @@
   ],
   "dependencies": {
     "chalk": "^1.1.1",
+    "glob": "^7.0.5",
+    "serial-loop": "^3.0.0",
     "yargs": "^3.30.0"
   },
   "author": "Chupurnov Valeriy",
