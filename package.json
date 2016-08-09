@@ -1,0 +1,20 @@
+{
+  "name": "concatinator",
+  "version": "1.0.0",
+  "description": "Concatinate a few files by command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "concatenate",
+    "concat",
+    "files"
+  ],
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "yargs": "^3.30.0"
+  },
+  "author": "Chupurnov Valeriy",
+  "license": "MIT"
+}
