@@ -1,26 +1,26 @@
 {
-    "name": "concatinator",
-    "version": "1.0.1",
-    "description": "Concatinate a few files by command line",
-    "main": "index.js",
-    "bin": {
-        "concatinator": "./bin/concatinator"
-    },
-    "bugs": {
-        "url": "https://github.com/xdan/concatinator/issues"
-    },
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [
-        "concatenate",
-        "concat",
-        "files"
-    ],
-    "dependencies": {
-        "chalk": "^1.1.1",
-        "yargs": "^3.30.0"
-    },
-    "author": "Chupurnov Valeriy",
-    "license": "MIT"
+  "name": "concatinator",
+  "version": "1.0.2",
+  "description": "Concatinate a few files by command line",
+  "main": "index.js",
+  "bin": {
+    "concatinator": "./bin/concatinator"
+  },
+  "bugs": {
+    "url": "https://github.com/xdan/concatinator/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "concatenate",
+    "concat",
+    "files"
+  ],
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "yargs": "^3.30.0"
+  },
+  "author": "Chupurnov Valeriy",
+  "license": "MIT"
 }
