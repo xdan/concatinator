@@ -1,6 +1,6 @@
 {
   "name": "concatinator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Concatinate a few files by command line",
   "main": "index.js",
   "scripts": {
