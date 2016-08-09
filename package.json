@@ -1,8 +1,12 @@
 {
   "name": "concatinator",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "Concatinate a few files by command line",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xdan/concatinator.git"
+  },
   "bin": {
     "concatinator": "./index.js"
   },
